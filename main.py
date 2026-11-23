@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """The One-Line Laugh — u-ronigrv-the-one-line-laugh-7ccca46f.
 
-Writes one original, single-sentence joke (131 chars) to
+Writes one original, single-sentence joke (122 chars) to
 $MAKEFUN_OUTPUT_DIR/entry.txt. Stdlib only, deterministic, no network,
 no randomness: the same line every run, byte for byte.
 """
