@@ -11,7 +11,7 @@ import sys
 
 LINE = (
     "I hired an AI agent to clear my inbox, and now I spend my mornings "
-    "reading its detailed summaries of emails I never wanted to read."
+    "reading its summaries of emails I never wanted to read."
 )
 
 
